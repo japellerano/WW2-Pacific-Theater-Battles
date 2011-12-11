@@ -1,0 +1,48 @@
+/*
+
+
+*/
+
+@import url('styles/reset.css');
+
+body
+{
+   background-color: rgba(236, 236, 236, 1.0);
+   margin: 0;
+}
+
+#wrapper
+{
+   background-color: rgba(255, 255, 255, 1.0);
+   margin: auto;
+   padding: 0;
+   width: 1024px;
+}
+
+header
+{
+   width: 100%;
+   padding: 10px;
+}
+
+h1#site-title
+{
+   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-size: 30px;
+}
+
+nav ul
+{
+   list-style: none;
+}
+
+nav li
+{
+   display: inline;
+   padding-right: 10px;
+}
+
+nav li:last-child
+{
+   padding-right: none;
+}
