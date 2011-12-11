@@ -20,3 +20,4 @@
                </ul>
             </nav>
          </header>
+         <div class="clear"></div>

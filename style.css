@@ -29,6 +29,15 @@ h1#site-title
 {
    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
    font-size: 30px;
+   float: left;
+   padding-right: 25px;
+}
+
+nav
+{
+   float: right;
+   margin-top: 10px;
+   padding-right: 10px;
 }
 
 nav ul
@@ -45,4 +54,39 @@ nav li
 nav li:last-child
 {
    padding-right: none;
+}
+
+nav li a
+{
+   text-decoration: none;
+}
+
+#content
+{
+   width: 100%;
+   padding: 10px;
+}
+
+.pacific
+{
+   margin: auto;
+   width: 70%;
+   height: 480px;
+   float: left;
+   padding-right: 10px;
+   background-image: url('images/pacifictheater.png');
+   background-repeat: no-repeat;
+}
+
+#legend
+{
+   float: left;
+   width: 25%;
+}
+
+footer
+{
+   padding: 10px;
+   margin: auto;
+   text-align: center;
 }
