@@ -18,7 +18,31 @@
          </ul>
          
          <ul data-color="#FF0000" data-label="Guadacanal">
-            <li data-coords="11.5, 10.8">Guadalcanal</li>
+            <li data-coords="11.5, 10.8">Guadalcanal Campaign</li>
+         </ul>
+         
+         <ul data-color="#FF0000" data-label="Java">
+            <li data-coords="5.2, 10.4">Java Campaign</li>
+         </ul>
+         
+         <ul data-color="#FF0000" data-label="Leyte">
+            <li data-coords="6.2, 8">Leyte Gulf Campaign</li>
+         </ul>
+         
+         <ul data-color="#FF0000" data-label="Truk">
+            <li data-coords="9.9, 8.25">The Destruction of Truk</li>
+         </ul>
+         
+         <ul data-color="#FF0000" data-label="Philippines">
+            <li data-coords="9.15, 7.2">The Battle of The Philippine Sea</li>
+         </ul>
+         
+         <ul data-color="#FF0000" data-label="Okinawa">
+            <li data-coords="7.0, 5.7">Okinawa</li>
+         </ul>
+         
+         <ul>
+            <li data-coords="13, 1.3">The Battle of Komandorski Islands</li>
          </ul>
       </div>
       <div id="legend"></div>
