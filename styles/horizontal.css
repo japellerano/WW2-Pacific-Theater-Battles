@@ -59,7 +59,13 @@
     height: 280px;
     list-style: none;
     float: left;
-    text-indent: 50px;
+}
+
+#issues li .left
+{
+    float: left;
+    width: 410px;
+    margin-left: 50px;
 }
 
 #issues li .map
@@ -68,7 +74,7 @@
     height: 250px;
     width: 300px;
     padding: 10px;
-    margin-right: 50px;
+    margin-right: 20px;
 }
 
 #issues li .map img
@@ -81,7 +87,6 @@
 {
     color: #ffcc00;
     font-size: 30px;
-    margin: 20px 0;
     float: left;
 }
 
@@ -92,6 +97,19 @@
     font-weight: normal;
     line-height: 22px;
     float: left;
+}
+
+#issues li #legend
+{
+    width: 430px;
+    clear: both;
+    float: left;
+    margin-top: 10px;
+}
+
+#issues li #legend span
+{
+    margin-right: 5px;
 }
 
 #grad_left,

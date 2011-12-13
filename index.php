@@ -9,9 +9,17 @@
           
           <ul id="issues">
             <li id="07DEC41">
-                <h1 class="title">Japanese Attack Pearl Harbor</h1>
+                <div class="left">                
+                    <h1 class="title">Japanese Attack Pearl Harbor</h1>
+                    <div id="legend">
+                    </div>
+                </div>
+                
                 <div class="map" data-columns="12" data-rows="10" data-cellSize="25" data-legendId="legend" data-textClass="text" data-gridNumbers="true" data-grid="true" data-lineWidth="8">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=Pearl+Harbor,HI&zoom=08&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=Wahiawa,HI&zoom=09&size=300x250&maptype=terrain&sensor=false" />
+                    <ul data-color="#FF0000" data-label="First Wave Japanese">
+                        <li data-coords="2,2"></li>
+                    </ul>
                 </div>
             </li>
             <li id="11DEC41">
