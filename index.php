@@ -17,10 +17,10 @@
                 
                 <div class="map" data-columns="12" data-rows="10" data-cellSize="25" data-legendId="legend" data-textClass="text" data-gridNumbers="true" data-grid="true" data-lineWidth="3">
                     <img src="http://maps.googleapis.com/maps/api/staticmap?center=Wahiawa,HI&zoom=09&size=300x250&maptype=terrain&sensor=false" />
-                    <ul data-color="#FF0000" data-label="First Wave Japanese">
-                        <li data-coords="6.5,.5"></li>
-                        <li data-coords="5,2"></li>
-                        <li data-coords="3,3" data-dir="S"></li>
+                    <ul data-color="#FF0000" data-label="Level Bombers">
+                        <li data-coords="6.5,0" data-dir="S"></li>
+                        <li data-coords="6,1.2" data-dir="S"></li>
+                        <li data-coords="3.1,3" data-dir="S"></li>
                         <li data-coords="2.7,4" data-dir="S"></li>
                         <li data-coords="2.5,5" data-dir="S"></li>
                         <li data-coords="2.7,6" data-dir="S"></li>
@@ -29,6 +29,15 @@
                         <li data-coords="5,8.6" data-dir="E"></li>
                         <li data-coords="6,8.5" data-dir="E"></li>
                         <li data-coords="6.8,7.5" data-dir="E"></li>
+                    </ul>
+                    <ul data-color="#00FF00" data-label="Torpedo Bombers">
+                        <li data-coords="6.65,0" data-dir="S"></li>
+                        <li data-coords="6.15,1.2" data-dir="S"></li>
+                        <li data-coords="3.25,3"></li>
+                        <li data-coords="3.35,4" data-dir="S"></li>
+                        <li data-coords="3.55,5" data-dir="S"></li>
+                        <li data-coords="5.4,7.8" data-dir="S"></li>
+                        <li data-coords="6.8, 7.5" data-dir="S"></li>
                     </ul>
                 </div>
             </li>
