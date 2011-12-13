@@ -10,8 +10,8 @@
           <ul id="issues">
             <li id="07DEC41">
                 <h1 class="title">Japanese Attack Pearl Harbor</h1>
-                <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=Pearl+Harbor,HI&zoom=08&size=250x250&maptype=terrain&sensor=false" />
+                <div class="map" data-columns="12" data-rows="10" data-cellSize="25" data-legendId="legend" data-textClass="text" data-gridNumbers="true" data-grid="true" data-lineWidth="8">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=Pearl+Harbor,HI&zoom=08&size=300x250&maptype=terrain&sensor=false" />
                 </div>
             </li>
             <li id="11DEC41">
@@ -24,5 +24,9 @@
           <a href="#" id="prev">-</a>
        </div>
     </div>
+    
+    <script type="text/javascript">
+        $(".map").subwayMap({debug: true});
+    </script>
 
 <?php include('includes/footer.php'); ?>

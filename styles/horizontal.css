@@ -62,10 +62,19 @@
     text-indent: 50px;
 }
 
-#issues li img 
+#issues li .map
+{
+    float: right;
+    height: 250px;
+    width: 300px;
+    padding: 10px;
+    margin-right: 50px;
+}
+
+#issues li .map img
 {
     float: left;
-    margin: 10px 30px 10px 50px;
+    position: absolute;
 }
 
 #issues li h1.title
@@ -73,6 +82,7 @@
     color: #ffcc00;
     font-size: 30px;
     margin: 20px 0;
+    float: left;
 }
 
 #issues li p.text
@@ -81,6 +91,7 @@
     margin-right: 70px;
     font-weight: normal;
     line-height: 22px;
+    float: left;
 }
 
 #grad_left,
