@@ -10,7 +10,8 @@
           <ul id="issues">
             <li id="07DEC41">
                 <h1 class="title">Japanese Attack Pearl Harbor</h1>
-                <div class="">
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=Pearl+Harbor,HI&zoom=08&size=250x250&maptype=terrain&sensor=false" />
                 </div>
             </li>
             <li id="11DEC41">
