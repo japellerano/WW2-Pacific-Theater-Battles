@@ -81,6 +81,8 @@
 {
     float: left;
     position: absolute;
+    height: 250px;
+    width: 300px;
 }
 
 #issues li h1.title
@@ -90,13 +92,14 @@
     float: left;
 }
 
-#issues li p.text
+#issues li p.descript
 {
     font-size: 14px;
     margin-right: 70px;
     font-weight: normal;
     line-height: 22px;
     float: left;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #issues li .legend
