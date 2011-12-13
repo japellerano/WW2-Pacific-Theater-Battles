@@ -28,7 +28,7 @@
                         <li data-coords="4,8.5" data-dir="S"></li>
                         <li data-coords="5,8.6" data-dir="E"></li>
                         <li data-coords="6,8.5" data-dir="E"></li>
-                        <li data-coords="6.8,7.5" data-dir="E"></li>
+                        <li data-coords="6.8,7.45" data-dir="E"></li>
                     </ul>
                     <ul data-color="#00FF00" data-label="Torpedo Bombers">
                         <li data-coords="6.65,0" data-dir="S"></li>
@@ -37,7 +37,13 @@
                         <li data-coords="3.35,4" data-dir="S"></li>
                         <li data-coords="3.55,5" data-dir="S"></li>
                         <li data-coords="5.4,7.8" data-dir="S"></li>
-                        <li data-coords="6.8, 7.5" data-dir="S"></li>
+                        <li data-coords="6.7, 7.5" data-dir="S"></li>
+                    </ul>
+                    <ul data-color="#00FF00">
+                        <li data-coords="5.4,7.8" data-dir="E"></li>
+                        <li data-coords="6.5,8.2" data-dir="S"></li>
+                        <li data-coords="7.5,7.3" data-dir="E"></li>
+                        <li data-coords="6.9,7.5" data-dir="W"></li>
                     </ul>
                     <ul data-color="#0000FF" data-label="Dive Bombers">
                         <li data-coords="6.8,0" data-dir="S"></li>
