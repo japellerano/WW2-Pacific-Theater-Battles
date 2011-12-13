@@ -24,6 +24,7 @@ header
 {
    width: 100%;
    padding: 10px;
+   margin-bottom: 25px;
 }
 
 h1#site-title
@@ -64,25 +65,12 @@ nav li a
 
 #content
 {
-   width: 100%;
-   padding: 10px;
-}
-
-.pacific
-{
-   margin: auto;
-   width: 70%;
-   height: 480px;
-   float: left;
-   padding-right: 10px;
-   background-image: url('images/pacifictheater.png');
-   background-repeat: no-repeat;
-}
-
-#legend
-{
-   float: left;
-   width: 25%;
+   width: 98%;
+   margin-left: 10px;
+   margin-right: 10px;
+   background: rgba(1, 1, 1, 1.0);
+   padding-top: 10px;
+   padding-bottom: 10px;
 }
 
 footer
@@ -90,4 +78,24 @@ footer
    padding: 10px;
    margin: auto;
    text-align: center;
+}
+
+footer p.foot
+{
+    font-size: 12px;
+    color: rgba(1, 1, 1, 1.0);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+}
+
+footer p.foot a
+{
+    text-decoration: none;
+    color: rgba(230, 150, 0, 1.0);
+}
+
+footer p.foot a:hover
+{
+    color: rgba(1, 1, 1, 1.0);
+    text-decoration: underline;
 }

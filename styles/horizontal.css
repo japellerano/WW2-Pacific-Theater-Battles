@@ -3,10 +3,11 @@
     width: 950px;
     height: 350px;
     overflow: hidden;
-    margin: 100px auto;
+    margin: auto;
     position: relative;
     background: url('../images/dot.gif') left 45px repeat-x;
     background-color: rgba(1, 1, 1, 1.0);
+    color: rgba(255, 255, 255, 1.0);
 }
 
 #dates 
@@ -31,7 +32,7 @@
 {
     line-height: 38px;
     padding-bottom: 10px;
-    color: rgba(240, 100, 0, 1.0);
+    color: rgba(255, 255, 0, 1.0);
     text-decoration: none;
 }
 
@@ -48,16 +49,17 @@
 #issues 
 {
     width: 800px;
-    height: 350px;
+    height: 280px;
     overflow: hidden;
 }	
 
 #issues li 
 {
     width: 800px;
-    height: 350px;
+    height: 280px;
     list-style: none;
     float: left;
+    text-indent: 50px;
 }
 
 #issues li img 
@@ -66,21 +68,19 @@
     margin: 10px 30px 10px 50px;
 }
 
-#issues li h1 
+#issues li h1.title
 {
     color: #ffcc00;
-    font-size: 48px;
+    font-size: 30px;
     margin: 20px 0;
-    text-shadow: #000 1px 1px 2px;
 }
 
-#issues li p 
+#issues li p.text
 {
     font-size: 14px;
     margin-right: 70px;
     font-weight: normal;
     line-height: 22px;
-    text-shadow: #000 1px 1px 2px;
 }
 
 #grad_left,
