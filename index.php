@@ -48,11 +48,16 @@
                     <ul data-color="#0000FF" data-label="Dive Bombers">
                         <li data-coords="6.8,0" data-dir="S"></li>
                         <li data-coords="5.6,1" data-dir="S"></li>
-                        <li data-coords="4.6,1.3" data-dir="S"></li>
-                        <li data-coords="3.75,2.1" data-dir="W"></li>
-                        <li data-coords="5,4.3" data-dir="S"></li>
-                        <li data-coords="5.8,6" data-dir="S"></li>
+                        <li data-coords="4.8,1.3" data-dir="S"></li>
+                        <li data-coords="3.75,2.4" data-dir="W"></li>
+                        <li data-coords="4.6,4.3" data-dir="S"></li>
+                        <li data-coords="5.4,6" data-dir="S"></li>
                         <li data-coords="6.8,7.5" data-dir="S"></li>
+                    </ul>
+                    <ul data-color="#0000FF">
+                        <li data-coords="4.2,3.4" data-dir="S"></li>
+                        <li data-coords="5.5,4" data-dir="E"></li>
+                        <li data-coords="5.5,5" data-dir="W"></li>
                     </ul>
                 </div>
             </li>
