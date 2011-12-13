@@ -21,7 +21,7 @@
             <h1 id="site-title">WWII Pacific Theater Battles</h1>
             <nav>
                <ul>
-                  <li><a href="/">Home</a></li>
+                  <li><a href="index.php">Home</a></li>
                   <li><a href="about.php">About</a></li>
                </ul>
             </nav>
