@@ -39,6 +39,15 @@
                         <li data-coords="5.4,7.8" data-dir="S"></li>
                         <li data-coords="6.8, 7.5" data-dir="S"></li>
                     </ul>
+                    <ul data-color="#0000FF" data-label="Dive Bombers">
+                        <li data-coords="6.8,0" data-dir="S"></li>
+                        <li data-coords="5.6,1" data-dir="S"></li>
+                        <li data-coords="4.6,1.3" data-dir="S"></li>
+                        <li data-coords="3.75,2.1" data-dir="W"></li>
+                        <li data-coords="5,4.3" data-dir="S"></li>
+                        <li data-coords="5.8,6" data-dir="S"></li>
+                        <li data-coords="6.8,7.5" data-dir="S"></li>
+                    </ul>
                 </div>
             </li>
             <li id="11DEC41">
