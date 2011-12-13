@@ -15,10 +15,20 @@
                     </div>
                 </div>
                 
-                <div class="map" data-columns="12" data-rows="10" data-cellSize="25" data-legendId="legend" data-textClass="text" data-gridNumbers="true" data-grid="true" data-lineWidth="8">
+                <div class="map" data-columns="12" data-rows="10" data-cellSize="25" data-legendId="legend" data-textClass="text" data-gridNumbers="true" data-grid="true" data-lineWidth="3">
                     <img src="http://maps.googleapis.com/maps/api/staticmap?center=Wahiawa,HI&zoom=09&size=300x250&maptype=terrain&sensor=false" />
                     <ul data-color="#FF0000" data-label="First Wave Japanese">
-                        <li data-coords="2,2"></li>
+                        <li data-coords="6.5,.5"></li>
+                        <li data-coords="5,2"></li>
+                        <li data-coords="3,3" data-dir="S"></li>
+                        <li data-coords="2.7,4" data-dir="S"></li>
+                        <li data-coords="2.5,5" data-dir="S"></li>
+                        <li data-coords="2.7,6" data-dir="S"></li>
+                        <li data-coords="3,7" data-dir="S"></li>
+                        <li data-coords="4,8.5" data-dir="S"></li>
+                        <li data-coords="5,8.6" data-dir="E"></li>
+                        <li data-coords="6,8.5" data-dir="E"></li>
+                        <li data-coords="6.8,7.5" data-dir="E"></li>
                     </ul>
                 </div>
             </li>
