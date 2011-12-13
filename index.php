@@ -11,11 +11,18 @@
             <li id="07DEC41">
                 <div class="left">                
                     <h1 class="title">Japanese Attack Pearl Harbor</h1>
-                    <div id="legend">
+                    <p class="descript">
+                        <!-- TEXT HERE -->
+                    </p>
+                    <div class="legend">
+                        <h3>Legend</h3>
+                        <p class="key">Level Bombers <span class="color" style="background-color: #FF0000;"></span></p>
+                        <p class="key">Torpedo Bombers <span class="color" style="background-color: #00FF00;"></span></p>
+                        <p class="key">Dive Bombers <span class="color" style="background-color: #0000FF;"></span></p>
                     </div>
                 </div>
                 
-                <div class="map" data-columns="12" data-rows="10" data-cellSize="25" data-legendId="legend" data-textClass="text" data-gridNumbers="true" data-grid="true" data-lineWidth="3">
+                <div class="map" data-columns="12" data-rows="10" data-cellSize="25" data-legendId="legend" data-textClass="text" data-gridNumbers="true" data-grid="true" data-lineWidth="2">
                     <img src="http://maps.googleapis.com/maps/api/staticmap?center=Wahiawa,HI&zoom=09&size=300x250&maptype=terrain&sensor=false" />
                     <ul data-color="#FF0000" data-label="Level Bombers">
                         <li data-coords="6.5,0" data-dir="S"></li>
@@ -29,6 +36,17 @@
                         <li data-coords="5,8.6" data-dir="E"></li>
                         <li data-coords="6,8.5" data-dir="E"></li>
                         <li data-coords="6.8,7.45" data-dir="E"></li>
+                    </ul>
+                    <ul data-color="#FF0000">
+                        <li data-coords="10.15,0" data-dir="S"></li>
+                        <li data-coords="10.15,3.5" data-dir="S"></li>
+                        <li data-coords="11.5,7" data-dir="S"></li>
+                        <li data-coords="9.7,9.5" data-dir="S"></li>
+                        <li data-coords="6.8, 7.5" data-dir="S"></li>
+                    </ul>
+                    <ul data-color="#FF0000">
+                        <li data-coords="10.7,5" data-dir="W"></li>
+                        <li data-coords="9.7,5.8" data-dir="W"></li>
                     </ul>
                     <ul data-color="#00FF00" data-label="Torpedo Bombers">
                         <li data-coords="6.65,0" data-dir="S"></li>
@@ -59,6 +77,12 @@
                         <li data-coords="5.5,4" data-dir="E"></li>
                         <li data-coords="5.5,5" data-dir="W"></li>
                     </ul>
+                    <ul data-color="#0000FF">
+                        <li data-coords="10,0" data-dir="S"></li>
+                        <li data-coords="10,3.5" data-dir="S"></li>
+                        <li data-coords="6.9,7.4" data-dir="S"></li>
+                    </ul>
+
                 </div>
             </li>
             <li id="11DEC41">
