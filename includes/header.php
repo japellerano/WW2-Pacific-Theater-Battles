@@ -7,6 +7,7 @@
       
       <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
       <script type="text/javascript" src="js/jquery.subwayMap-0.5.0.js"></script>
+      <script type="text/javascript" src="js/popup.js"></script>
       
    </head>
    <body>
