@@ -10,7 +10,8 @@
           <ul id="issues">
             <li id="07DEC41">
                 <h1 class="title">Japanese Attack Pearl Harbor</h1>
-                <p class="text"></p>
+                <div class="">
+                </div>
             </li>
             <li id="11DEC41">
                 <h1 class="title">United States Declares War on Axis Powers</h1>
