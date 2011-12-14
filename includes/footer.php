@@ -6,6 +6,9 @@
             <p class="foot">
                Copyright &copy; <?php echo date('Y'); ?> <a href="http://japellerano.com/">James Pellerano</a>. All Rights Reserved.
             </p>
+            <p class="foot">
+                All images are in the public domain and are freely available to the public.
+            </p>
          </footer>
       </div>
    </body>
