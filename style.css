@@ -10,6 +10,7 @@ body
 {
    background-color: rgba(236, 236, 236, 1.0);
    margin: 0;
+   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #wrapper
@@ -61,6 +62,52 @@ nav li:last-child
 nav li a
 {
    text-decoration: none;
+}
+
+#container
+{
+   width: 98%;
+   margin-left: 15px;
+   margin-right: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+
+#content-left
+{
+    float: left;
+    width: 70%;
+}
+
+h1.section
+{
+    font-size: 24px;
+    font-weight: lighter;
+    margin-bottom: 4px;
+}
+
+.about
+{
+    margin-bottom: 10px;
+    margin-left: 5px;
+    font-size: 16px;
+}
+
+article
+{
+    margin-bottom: 5px;
+}
+
+article a
+{
+    font-size: 12px;
+    color: rgba(230, 80, 0, 1.0);
+}
+
+#content-right
+{
+    width: 25%;
+    float: left;
 }
 
 #content
