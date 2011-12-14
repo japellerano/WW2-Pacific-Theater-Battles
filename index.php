@@ -12,8 +12,26 @@
             <li><a href="#08AUG42">08 August 1942</a></li>
             <li><a href="#24AUG42">24 August 1942</a></li>
             <li><a href="#25AUG42">25 August 1942</a></li>
+            <li><a href="#25OCT42">25 October 1942</a></li>
+            <li><a href="#12NOV42">12 November 1942</a></li>
             <li><a href="#16NOV42">16 November 1942</a></li>
+            <li><a href="#09FEB43">09 February 1943</a></li>
             <li><a href="#02MAR43">02 March 1943</a></li>
+            <li><a href="#11MAY43">11 May 1943</a></li>
+            <li><a href="#20NOV43">20 November 1943</a></li>
+            <li><a href="#21NOV43">20 November 1943</a></li>
+            <li><a href="#31JAN44">31 January 1944</a></li>
+            <li><a href="#17FEB44">17 February 1944</a></li>
+            <li><a href="#15JUN44">15 June 1944</a></li>
+            <li><a href="#19JUN44">19 June 1944</a></li>
+            <li><a href="#21JUL44">21 July 1944</a></li>
+            <li><a href="#24JUL44">24 July 1944</a></li>
+            <li><a href="#15SEP44">15 September 1944</a></li>
+            <li><a href="#17SEP44">17 September 1944</a></li>
+            <li><a href="#20OCT44">20 October 1944</a></li>
+            <li><a href="#23OCT44">23 October 1944</a></li>
+            <li><a href="#19FEB45">19 February 1945</a></li>
+            <li><a href="#01APR45">01 April 1945</a></li>
             <li><a href="#06AUG45">06 August 1945</a></li>
             <li><a href="#09AUG45">09 August 1945</a></li>
             <li><a href="#14AUG45">14 August 1945</a></li>
@@ -34,7 +52,7 @@
                     </div>
                 </div>
                 
-                <div class="map" data-columns="12" data-rows="10" data-cellSize="25" data-legendId="legend" data-textClass="text" data-gridNumbers="true" data-grid="true" data-lineWidth="2">
+                <div class="map" data-columns="12" data-rows="10" data-cellSize="25" data-legendId="legend" data-textClass="text" data-gridNumbers="false" data-grid="false" data-lineWidth="2">
                     <img src="http://maps.googleapis.com/maps/api/staticmap?center=Wahiawa,HI&zoom=09&size=300x250&maptype=terrain&sensor=false" />
                     <ul data-color="#FF0000" data-label="Level Bombers">
                         <li data-coords="6.5,0" data-dir="S"></li>
@@ -193,6 +211,30 @@
                 </div>
             </li>
             
+            <li id="25OCT42">
+                <div class="left">
+                    <h1 class="title">Battle of the Santa Cruz Islands</h1>
+                    <p class="descript">
+                        25 October 1942 - 27 October 1942
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-8.25,164.36&zoom=06&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="12NOV42">
+                <div class="left">
+                    <h1 class="title">Naval Battle of Guadalcanal</h1>
+                    <p class="descript">
+                        12 November 1942 - 15 November 1942
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-9.164,159.913&zoom=09&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
             <li id="16NOV42">
                 <div class="left">
                     <h1 class="title">Battle of Buna-Gona</h1>
@@ -202,6 +244,19 @@
                 </div>
                 <div class="map">
                     <img src="http://maps.googleapis.com/maps/api/staticmap?center=-8.658,148.389&zoom=11&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="09FEB43">
+                <div class="left">
+                    <h1 class="title">Capture of Guadalcanal Island</h1>
+                    <p class="descript">
+                        09 February 1943<br />
+                        The island is declared to be free of Japanese. The Japanese evacuated some 10,652 men from the island on the nights of 04 February and 07 February.
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-9.603,160.181&zoom=08&size=300x250&maptype=terrain&sensor=false" />
                 </div>
             </li>
             
@@ -217,13 +272,198 @@
                 </div>
             </li>
             
+            <li id="11MAY43">
+                <div class="left">
+                    <h1 class="title">Battle of Attu</h1>
+                    <p class="descript">
+                        11 May 1943 - 30 May 1943<br />
+                        Last action during WWII in the Aleutian Islands Campaign.
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=52.874,172.889&zoom=09&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="20NOV43">
+                <div class="left">
+                    <h1 class="title">Battle of Tarawa</h1>
+                    <p class="descript">
+                        20 November 1943 - 23 November 1943<br />
+                        First time the United States faced serious opposition during an amphibious landing.
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=1.424,173.094&zoom=10&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="21NOV43">
+                <div class="left">
+                    <h1 class="title">Battle of Makin</h1>
+                    <p class="descript">
+                        20 November 1943 - 24 November 1943<br />
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=3.379,172.986&zoom=12&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="31JAN44">
+                <div class="left">
+                    <h1 class="title">Battle of Kwajalein</h1>
+                    <p class="descript">
+                        31 January 1944 - 03 February 1944
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=9.19,167.41&zoom=08&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="17FEB44">
+                <div class="left">
+                    <h1 class="title">Battle of Eniwetok</h1>
+                    <p class="descript">
+                        17 February 1944 - 23 February 1944.
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=11.463,162.190&zoom=09&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="15JUN44">
+                <div class="left">
+                    <h1 class="title">Battle of Saipan</h1>
+                    <p class="descript">
+                        15 June 1944 - 09 July 1944
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=15.174,145.746&zoom=10&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+
+            <li id="19JUN44">
+                <div class="left">
+                    <h1 class="title">Battle of the Philippine Sea</h1>
+                    <p class="descript">
+                        19 June 1944 - 20 June 1944
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=19.2,132.5&zoom=04&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="21JUL44">
+                <div class="left">
+                    <h1 class="title">Battle of Guam</h1>
+                    <p class="descript">
+                        21 July 1944 - 10 August 1944
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=13.471,144.792&zoom=10&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="24JUL44">
+                <div class="left">
+                    <h1 class="title">Battle of Tinian</h1>
+                    <p class="descript">
+                        24 July 1944 - 01 August 1944
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=15.003,145.630&zoom=11&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="15SEP44">
+                <div class="left">
+                    <h1 class="title">Battle of Peleliu</h1>
+                    <p class="descript">
+                        15 September 1944 - 27 November 1944.
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=7.002,134.243&zoom=10&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="17SEP44">
+                <div class="left">
+                    <h1 class="title">Battle of Angaur</h1>
+                    <p class="descript">
+                        17 September 1944 - 30 September 1944
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=6.9063,134.1389&zoom=11&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="20OCT44">
+                <div class="left">
+                    <h1 class="title">Battle of Leyte</h1>
+                    <p class="descript">
+                        20 October 1944 - 31 December 1944
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=11.146,124.600&zoom=08&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="23OCT44">
+                <div class="left">
+                    <h1 class="title">Battle of Leyte Gulf</h1>
+                    <p class="descript">
+                        23 October 1944 - 26 October 1944<br />
+                        The largest naval battle in history. 
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=11.23,126.35&zoom=07&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="19FEB45">
+                <div class="left">
+                    <h1 class="title">The Battle of Iwo Jima</h1>
+                    <p class="descript">
+                        19 February 1945 - 26 March 1945
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=24.782,141.321&zoom=12&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
+            <li id="01APR45">
+                <div class="left">
+                    <h1 class="title">Battle of Okinawa</h1>
+                    <p class="descript">
+                        01 April 1945 - 21 June 1945
+                    </p>
+                </div>
+                <div class="map">
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=26.531,127.996&zoom=08&size=300x250&maptype=terrain&sensor=false" />
+                </div>
+            </li>
+            
             <li id="06AUG45">
                 <div class="left">
                     <h1 class="title">United States Drops the First Atomic Bomb on Hiroshima</h1>
                     <p class="descript">
+                        06 August 45
                     </p>
                 </div>
                 <div class="map">
+                    <img src="images/Hiroshima.jpg" />
                 </div>
             </li>
             
@@ -231,9 +471,11 @@
                 <div class="left">
                     <h1 class="title">United States Drops the Second Atomic Bomb on Nagasaki</h1>
                     <p class="descript">
+                        09 August 1945
                     </p>
                 </div>
                 <div class="map">
+                    <img src="images/Nagasaki.jpg" />
                 </div>
             </li>
             
@@ -241,10 +483,11 @@
                 <div class="left">
                     <h1 class="title">Japan Surrenders</h1>
                     <p class="descript">
-                        
+                        14 August 1945
                     </p>
                 </div>
                 <div class="map">
+                    <img src="images/surrender.jpg" />
                 </div>
             </li>
             
