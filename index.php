@@ -53,7 +53,7 @@
                 </div>
                 
                 <div class="map" data-columns="12" data-rows="10" data-cellSize="25" data-legendId="legend" data-textClass="text" data-gridNumbers="false" data-grid="false" data-lineWidth="2">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=Wahiawa,HI&zoom=09&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=Wahiawa,HI&zoom=09&size=300x250&maptype=terrain&sensor=false" alt="Map of Pearl Harbor"/>
                     <ul data-color="#FF0000" data-label="Level Bombers">
                         <li data-coords="6.5,0" data-dir="S"></li>
                         <li data-coords="6,1.2" data-dir="S"></li>
@@ -123,7 +123,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="images/declares_war.jpg" />
+                    <img src="images/declares_war.jpg" alt="News Paper Clipping" />
                 </div>
             </li>
             
@@ -135,7 +135,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-12.6,156.7&zoom=05&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-12.6,156.7&zoom=05&size=300x250&maptype=terrain&sensor=false" alt="Battle of the Coral Sea" />
                 </div>
             </li>
             
@@ -147,7 +147,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=51.67,-177.3&zoom=04&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=51.67,-177.3&zoom=04&size=300x250&maptype=terrain&sensor=false" alt="Aleutian Island Campaign" />
                 </div>
             </li>
             
@@ -159,7 +159,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=28.233,-177.352&zoom=11&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=28.233,-177.352&zoom=11&size=300x250&maptype=terrain&sensor=false" alt="Battle of Midway" />
                 </div>
             </li>
             
@@ -171,7 +171,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=Guadalcanal&zoom=08&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=Guadalcanal&zoom=08&size=300x250&maptype=terrain&sensor=false" alt="Guadalcanal Campaign" />
                 </div>
             </li>
             
@@ -183,7 +183,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-9.048,159.706&zoom=10&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-9.048,159.706&zoom=10&size=300x250&maptype=terrain&sensor=false" alt="Battle of Savo Islands" />
                 </div>
             </li>
             
@@ -195,7 +195,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-13.15,165.34&zoom=05&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-13.15,165.34&zoom=05&size=300x250&maptype=terrain&sensor=false" alt="Battle of the Eastern Solomons" />
                 </div>
             </li>
             
@@ -207,7 +207,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-10.422,150.657&zoom=09&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-10.422,150.657&zoom=09&size=300x250&maptype=terrain&sensor=false" alt="Battle of Milne Bay" />
                 </div>
             </li>
             
@@ -219,7 +219,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-8.25,164.36&zoom=06&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-8.25,164.36&zoom=06&size=300x250&maptype=terrain&sensor=false" alt="Battle of the Santa Cruz Islands" />
                 </div>
             </li>
             
@@ -231,7 +231,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-9.164,159.913&zoom=09&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-9.164,159.913&zoom=09&size=300x250&maptype=terrain&sensor=false" alt="Naval Battle of Guadalcanal" />
                 </div>
             </li>
             
@@ -243,7 +243,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-8.658,148.389&zoom=11&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-8.658,148.389&zoom=11&size=300x250&maptype=terrain&sensor=false" alt="Battle of Buna-Gona" />
                 </div>
             </li>
             
@@ -256,7 +256,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-9.603,160.181&zoom=08&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-9.603,160.181&zoom=08&size=300x250&maptype=terrain&sensor=false" alt="Capture of Guadalcanal Island" />
                 </div>
             </li>
             
@@ -268,7 +268,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-6.107784,148.930664&zoom=06&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=-6.107784,148.930664&zoom=06&size=300x250&maptype=terrain&sensor=false" alt="Battle of the Bismarck Sea" />
                 </div>
             </li>
             
@@ -281,7 +281,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=52.874,172.889&zoom=09&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=52.874,172.889&zoom=09&size=300x250&maptype=terrain&sensor=false" alt="Battle of Attu" />
                 </div>
             </li>
             
@@ -294,7 +294,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=1.424,173.094&zoom=10&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=1.424,173.094&zoom=10&size=300x250&maptype=terrain&sensor=false" alt="Battle of Tarawa" />
                 </div>
             </li>
             
@@ -306,7 +306,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=3.379,172.986&zoom=12&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=3.379,172.986&zoom=12&size=300x250&maptype=terrain&sensor=false" alt="Battle of Makin" />
                 </div>
             </li>
             
@@ -318,7 +318,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=9.19,167.41&zoom=08&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=9.19,167.41&zoom=08&size=300x250&maptype=terrain&sensor=false" alt="Battle of Kwajalein" />
                 </div>
             </li>
             
@@ -330,7 +330,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=11.463,162.190&zoom=09&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=11.463,162.190&zoom=09&size=300x250&maptype=terrain&sensor=false" alt="Battle of Eniwetok" />
                 </div>
             </li>
             
@@ -342,7 +342,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=15.174,145.746&zoom=10&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=15.174,145.746&zoom=10&size=300x250&maptype=terrain&sensor=false" alt="Battle of Saipan" />
                 </div>
             </li>
 
@@ -354,7 +354,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=19.2,132.5&zoom=04&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=19.2,132.5&zoom=04&size=300x250&maptype=terrain&sensor=false" alt="Battle of the Philippine Sea" />
                 </div>
             </li>
             
@@ -366,7 +366,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=13.471,144.792&zoom=10&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=13.471,144.792&zoom=10&size=300x250&maptype=terrain&sensor=false" alt="Battle of Guam" />
                 </div>
             </li>
             
@@ -378,7 +378,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=15.003,145.630&zoom=11&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=15.003,145.630&zoom=11&size=300x250&maptype=terrain&sensor=false" alt="Battle of Tinian" />
                 </div>
             </li>
             
@@ -390,7 +390,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=7.002,134.243&zoom=10&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=7.002,134.243&zoom=10&size=300x250&maptype=terrain&sensor=false" alt="Battle of Peleliu" />
                 </div>
             </li>
             
@@ -402,7 +402,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=6.9063,134.1389&zoom=11&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=6.9063,134.1389&zoom=11&size=300x250&maptype=terrain&sensor=false" alt="Battle of Angaur" />
                 </div>
             </li>
             
@@ -414,7 +414,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=11.146,124.600&zoom=08&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=11.146,124.600&zoom=08&size=300x250&maptype=terrain&sensor=false" alt="Battle of Leyte" />
                 </div>
             </li>
             
@@ -427,7 +427,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=11.23,126.35&zoom=07&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=11.23,126.35&zoom=07&size=300x250&maptype=terrain&sensor=false" alt="Battle of Leyte Gulf" />
                 </div>
             </li>
             
@@ -439,7 +439,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=24.782,141.321&zoom=12&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=24.782,141.321&zoom=12&size=300x250&maptype=terrain&sensor=false" alt="The Battle of Iwo Jima" />
                 </div>
             </li>
             
@@ -451,7 +451,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=26.531,127.996&zoom=08&size=300x250&maptype=terrain&sensor=false" />
+                    <img src="http://maps.googleapis.com/maps/api/staticmap?center=26.531,127.996&zoom=08&size=300x250&maptype=terrain&sensor=false" alt="Battle of Okinawa" />
                 </div>
             </li>
             
@@ -463,7 +463,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="images/Hiroshima.jpg" />
+                    <img src="images/Hiroshima.jpg" alt="Hiroshima" />
                 </div>
             </li>
             
@@ -475,7 +475,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="images/Nagasaki.jpg" />
+                    <img src="images/Nagasaki.jpg" alt="Nagasaki" />
                 </div>
             </li>
             
@@ -487,7 +487,7 @@
                     </p>
                 </div>
                 <div class="map">
-                    <img src="images/surrender.jpg" />
+                    <img src="images/surrender.jpg" alt="Japan Surrenders" />
                 </div>
             </li>
             
